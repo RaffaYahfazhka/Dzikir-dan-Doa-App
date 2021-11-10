@@ -1,0 +1,181 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/burj"
+    tools:context=".GoodActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/circle_mini"
+        android:padding="5dp"
+        android:src="@drawable/ic_back"
+        app:tint="@color/light_gray" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:padding="5dp"
+        android:background="@drawable/circle_mini"
+        android:src="@drawable/ic_cart"
+        app:tint="@color/light_gray"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/top_rounded">
+
+        <TextView
+            android:id="@+id/dubai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="45dp"
+            android:text="dubai"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/al_arab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Burj Al Arab"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@id/dubai"
+            app:layout_constraintTop_toBottomOf="@id/dubai" />
+
+        <ImageView
+            android:id="@+id/star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="-3dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/ic_star"
+            app:layout_constraintStart_toStartOf="@id/al_arab"
+            app:layout_constraintTop_toBottomOf="@id/al_arab" />
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:text="4.5"
+            android:textColor="@color/yellow"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="@id/star"
+            app:layout_constraintStart_toEndOf="@id/star"
+            app:layout_constraintTop_toBottomOf="@id/al_arab" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="(1.496 reviews)"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="@id/star"
+            app:layout_constraintStart_toEndOf="@id/number"
+            app:layout_constraintTop_toBottomOf="@id/al_arab" />
+
+        <TextView
+            android:id="@+id/desk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/desk"
+            app:layout_constraintStart_toStartOf="@id/star"
+            app:layout_constraintTop_toBottomOf="@id/star" />
+
+        <LinearLayout
+            android:id="@+id/layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="27dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="@id/star"
+            app:layout_constraintTop_toBottomOf="@id/desk">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:background="@drawable/circle"
+                android:padding="10dp"
+                android:src="@drawable/ic_restaurant"
+                app:tint="@color/light_gray" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:background="@drawable/circle"
+                android:padding="10dp"
+                android:src="@drawable/ic_run"
+                app:tint="@color/light_gray" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:background="@drawable/circle"
+                android:padding="10dp"
+                android:src="@drawable/ic_parking"
+                app:tint="@color/light_gray" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:background="@drawable/circle"
+                android:padding="10dp"
+                android:src="@drawable/ic_wifi"
+                app:tint="@color/light_gray" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/harga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="45dp"
+            android:text="210$"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="@id/star"
+            app:layout_constraintTop_toBottomOf="@id/layout" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="/night"
+            android:textColor="@color/light_gray"
+            app:layout_constraintBottom_toBottomOf="@id/harga"
+            app:layout_constraintStart_toEndOf="@id/harga"
+            app:layout_constraintTop_toBottomOf="@id/layout"
+            app:layout_constraintTop_toTopOf="@id/harga" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</RelativeLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/bg_blue_gray.xml" value="0.1921875" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/circle.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/circle_mini.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/ic_restaurant.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/ic_run.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/ic_star.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/drawable/top_rounded.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/layout/fragment_artikel.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Doa_dan_Dzikir_App/app/src/main/res/layout/good.xml" value="0.25" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable-v24/bg_dashboard_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/active_dot.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_blue.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_blue_gray.xml" value="0.25" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_btn_dzikir.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_dashboard_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_item.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_main_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_rv_dzikir_pagi.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_rv_dzikir_petang.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/bg_splash_screen.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/dot_active.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/ic_chv_right.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/drawable/non_active_dot.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_detail_artikel.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_dzikir_pagi.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_dzikir_petang.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_harian_dzikir_doa.xml" value="0.22" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_pagi_petang_dzikir.xml" value="0.18" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_qauliyah_shalat.xml" value="0.25" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_setiap_saat_dzikir.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/fragment_artikel.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/row_item_doa.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/row_item_dzikir_doa.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/bg_rv_dzikir_pagi.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/circle_mini.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/dot_active.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_cart.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_wifi.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/layout/activity_detail_artikel.xml" value="0.14221014492753623" />
+        <entry key="app/src/main/res/layout/activity_dzikir_pagi.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_dzikir_petang.xml" value="0.14221014492753623" />
+        <entry key="app/src/main/res/layout/activity_harian_dzikir_doa.xml" value="0.14221014492753623" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_pagi_petang_dzikir.xml" value="0.20108695652173914" />
+        <entry key="app/src/main/res/layout/activity_qauliyah_shalat.xml" value="0.20108695652173914" />
+        <entry key="app/src/main/res/layout/activity_setiap_saat_dzikir.xml" value="0.14221014492753623" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.20108695652173914" />
+        <entry key="app/src/main/res/layout/fragment_artikel.xml" value="0.20108695652173914" />
+        <entry key="app/src/main/res/layout/good.xml" value="0.28651685393258425" />
+        <entry key="app/src/main/res/layout/row_item_dzikir_doa.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
